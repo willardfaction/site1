@@ -1,0 +1,14 @@
+@media all and (max-width: 768px) {
+  #mua {
+    width: 30%;
+    justify-content: center;
+  }
+}
+.carousel-control.left .glyphicon {
+  left: 20;
+  margin-left: 0;
+}
+.carousel-control.right .glyphicon {
+  right: 0;
+  margin-right: 0;
+}
